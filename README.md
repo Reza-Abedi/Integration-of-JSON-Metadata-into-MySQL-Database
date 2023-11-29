@@ -2,10 +2,6 @@
 
 This process efficiently extracts movie metadata from a JSON file and systematically enters it into a MySQL database. Leveraging modules for file system operations and database interactions, the code establishes a connection, iterates through each movie, and logs details while using a utility function for SQL queries. This systematic approach ensures the structured integration of comprehensive movie metadata into the MySQL database.
 
-## Step 1: Import Modules
-
-The process begins with importing necessary modules. In this case, the code imports the 'fs' module for interacting with the file system and the 'mysql2/promise' module for handling MySQL database operations.
-
 ```javascript
 // Import the file system module (fs)
 import fs from 'fs';
