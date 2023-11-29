@@ -50,6 +50,7 @@ The process begins with importing necessary modules. In this case, the code impo
 ```javascript
 import fs from 'fs';
 import mysql from 'mysql2/promise';
+}
 
 
 ###Step2: Read Movie Data:
