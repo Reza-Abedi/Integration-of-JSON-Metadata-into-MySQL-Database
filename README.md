@@ -3,9 +3,10 @@
 This process efficiently extracts movie metadata from a JSON file and systematically enters it into a MySQL database. Leveraging modules for file system operations and database interactions, the code establishes a connection, iterates through each movie, and logs details while using a utility function for SQL queries. This systematic approach ensures the structured integration of comprehensive movie metadata into the MySQL database.
 
 ## Detailed Code Breakdown and Execution Steps
-For a more in-depth understanding of the code implementation and the step-by-step execution process, please refer to the accompanying document titled "Code Breakdown and Execution Steps" [insert link to your document]. This document provides a comprehensive breakdown of the source code, elucidating each key component and explaining the sequential execution flow.
-
+For a more in-depth understanding of the code implementation and the step-by-step execution process, please refer to the accompanying document titled "Code Breakdown and Execution Steps". 
 https://docs.google.com/document/d/1VSjIBcgoU1WZ0VphFPl4l9jbBWwzNTYoyLfQPvzZGNE/edit?usp=sharing
+This document provides a comprehensive breakdown of the source code, elucidating each key component and explaining the sequential execution flow.
+
 
 
 
